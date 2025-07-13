@@ -34,7 +34,6 @@ BreastCancerDiagnosis/
 │   └── evaluation.py          # Performance metrics
 ├── results/                   # ROC curves, confusion matrices
 ├── README.md                  # Project documentation
-└── requirements.txt           # Python dependencies
 ```
 
 ### 📊 View Evaluation Metrics
@@ -72,6 +71,3 @@ Output includes:
 | Stacking Ensemble        | ~95.6%   | 0.993   | Best overall performance          |
 
 
-
-## 📜 License
-This project is part of the B.Tech curriculum at Acharya Nagarjuna University and is intended for academic and research purposes.
